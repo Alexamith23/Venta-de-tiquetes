@@ -1,0 +1,5 @@
+SJ001,San Jose,San Jose
+PC001,Paso Canoas,Paso Canoas
+PNM001,Panama,Albrook Mall
+QEP001,Quepos,Quepos
+PRZ001,Perez Zeledon,San Isidro Del General

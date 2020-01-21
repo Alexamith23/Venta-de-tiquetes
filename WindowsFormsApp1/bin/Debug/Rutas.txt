@@ -1,0 +1,3 @@
+PV001,Puerto Viejo,Recorrido pasando por venecia
+SV001,San Vito,San Vito-San Jose
+CQ100,Ciudad Quesada,Expreso

@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\Enteties\bin\Debug\Enteties.dll
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\Enteties\bin\Debug\Enteties.pdb
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\Enteties\obj\Debug\Enteties.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\Enteties\obj\Debug\Enteties.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\Enteties\obj\Debug\Enteties.dll
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\Enteties\obj\Debug\Enteties.pdb

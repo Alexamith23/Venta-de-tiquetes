@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\bin\Debug\BOL.dll
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\bin\Debug\BOL.pdb
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\bin\Debug\Enteties.dll
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\bin\Debug\Enteties.pdb
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\obj\Debug\BOL.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\obj\Debug\BOL.csproj.CopyComplete
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\obj\Debug\BOL.dll
+C:\Users\Usuario\source\repos\proyecto_tiquetes2\Proy_PIII\BOL\obj\Debug\BOL.pdb

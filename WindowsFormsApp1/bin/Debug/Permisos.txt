@@ -1,0 +1,17 @@
+luis32,Admin
+12,Admin
+12,Asistente
+56,Encomiendas
+56,Admin
+luis32,Tiquetes
+56,Tiquetes
+luis32,Asistente
+pepe21,Admin
+Agapito,Encomiendas
+nani12,Admin
+juan14,Admin
+alex89,Admin
+pito70,Tiquetes
+dimas30,Tiquetes
+paty,Asistente
+luis32,Encomiendas
